@@ -1,0 +1,136 @@
+*{
+    padding: 0;
+    margin:0;
+    font-family: 'Times New Roman', Times, serif;
+}
+.nav a{
+    display:block;
+    padding: 15px 18px 15px 20px;
+    text-decoration: none;
+    font-family:'Times New Roman';
+}
+#staticBackdrop{
+    width:auto
+}
+.body{
+    margin:0;
+    padding: 0;
+    
+}
+#CAP,{
+    background-image: linear-gradient(rgb(2, 1, 1), rgb(7, 130, 231)), url(1CrossArmPose.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    position:relative;
+}
+
+
+#ICAP,.hero-text{
+    font-family: 'Times New Roman';
+
+}
+.container{
+    position:absolute;
+    bottom:0;
+    left:0;
+    right:0;
+    padding-bottom: 50px;
+}
+.card{
+    margin: auto;
+    border-radius: 15px;
+    border-color: rgb(34, 221, 221);
+    border-width: 15px;
+    border-style: double;
+}
+
+.row{
+    font-family: 'Times New Roman';
+    font-size: large;
+    background-color:rgb(8, 59, 102);
+    width:auto;
+    height:fit-content;
+  color:wheat;
+    margin:auto;
+    padding:25px;
+}
+#p1{
+    font-family: 'Times New Roman';
+}
+#AU{
+    font-family: 'Times New Roman';
+    height:fit-content;
+    width:75%;
+    float: center;
+    margin:auto;
+    border-color: rgb(8, 59, 102);
+    border-radius: 25px;
+    border-style: double;
+    border-width: 20px;
+}
+#about{
+    margin:15px;
+    height:200px;
+    border-radius: 25px;
+    border-color:rgb(87, 120, 130);
+    border-style: double;
+    border-width: 15px;
+}
+#p1{
+    margin: 25px;
+}
+#apt{
+    height:400px;
+    padding-left: 25px;
+    border-color: aqua;
+    border-style: double;
+    border-width: 15px;
+    border-style: solid;
+    
+}
+#apt1{
+    background:linear-gradient(125deg, rgb(2, 1, 1), rgb(7, 130, 231));
+    height:500px;
+    
+  
+}
+#para{
+    border-color: aqua;
+    border-style: double;
+    border-width: 15px;
+    color: wheat;
+   
+}
+.col-2{
+    margin:25px;
+    height: 300px;
+    width:30%;
+    
+}
+#gps{
+    background:linear-gradient(125deg, rgb(2, 1, 1), rgb(7, 130, 231));
+}
+#apt2{
+    background:linear-gradient(125deg, rgb(2, 1, 1), rgb(7, 130, 231));
+    padding:25px;
+    margin: auto;
+}
+#cdr{
+    width: 30rem;
+}
+#MPT{
+    color: wheat;
+}
+.container-fluid {
+    color:wheat;
+}
+.container-fluid a{
+    color:wheat;
+}
+
+
